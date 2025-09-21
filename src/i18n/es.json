@@ -1,0 +1,75 @@
+{
+  "HomePage": {
+    "title": "Convierte datos en decisiones",
+    "subtitle": "Nuestro panel de control ofrece información poderosa para impulsar tu negocio",
+    "ctaButton": "Comienza ahora"
+  },
+  "LoginPage": {
+    "title": "Inicia sesión en tu cuenta",
+    "subtitle": "Conéctate usando tu cuenta de Google",
+    "googleButton": "Continuar con Google"
+  },
+  "Dashboard": {
+    "menu": {
+      "overview": "Visión General",
+      "reports": "Tareas",
+      "analytics": "Análisis",
+      "settings": "Configuración"
+    },
+    "welcome": "¡Bienvenido de nuevo, {name}!",
+    "overview": {
+      "title": "Visión General del Panel",
+      "pending": "Pendientes",
+      "weekCompleted": "Completadas esta Semana",
+      "completed": "Completadas",
+      "total": "Total"
+    },
+    "tasks": {
+      "title": "Tareas",
+      "addButton": "Agregar Tarea",
+      "noTasks": "No hay tareas pendientes.",
+      "completeButton": "Completar",
+      "editButton": "Editar",
+      "deleteButton": "Eliminar",
+      "createdAt": "Creada el: {date}"
+    },
+    "analytics": {
+      "title": "Análisis",
+      "weeklyProgress": "Progreso Semanal",
+      "monthlyProgress": "Progreso Mensual",
+      "tasksCompleted": "Tareas Completadas",
+      "noData": "No hay tareas completadas {period}.",
+      "week": "esta semana",
+      "month": "este mes"
+    },
+    "settings": {
+      "title": "Configuración",
+      "subtitle": "Aquí puedes ajustar tus preferencias y configuraciones.",
+      "language": "Idioma",
+      "languageDesc": "Cambiar el idioma de la interfaz",
+      "userPreferences": "Preferencias de Usuario",
+      "userPreferencesDesc": "Configuración de visualización y personalización."
+    },
+    "header": {
+      "menu": "Menú",
+      "title": "Panel de Control",
+      "darkMode": "Modo oscuro",
+      "welcome": "¡Bienvenido, {name} !",
+      "logout": "Cerrar Sesión"
+    }
+  },
+  "LanguageSwitcher": {
+    "changeLanguage": "Cambiar idioma"
+  },
+  "Common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "success": "Operación completada con éxito",
+    "requiredField": "Por favor complete este campo",
+    "databaseError": "¡Error al conectar con la base de datos!",
+    "sessionError": "¡La sesión de usuario no se carga!",
+    "deleteError": "Error al eliminar la tarea. Inténtelo de nuevo.",
+    "editError": "Error al editar la tarea. Inténtelo de nuevo.",
+    "completeError": "Error al completar la tarea. Inténtelo de nuevo."
+  }
+}

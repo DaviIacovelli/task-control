@@ -1,0 +1,75 @@
+{
+  "HomePage": {
+    "title": "Transforme dados em decisões",
+    "subtitle": "Nosso painel de controle oferece insights poderosos para impulsionar seu negócio",
+    "ctaButton": "Comece agora"
+  },
+  "LoginPage": {
+    "title": "Faça login em sua conta",
+    "subtitle": "Conecte-se usando sua conta Google",
+    "googleButton": "Continuar com Google"
+  },
+  "Dashboard": {
+    "menu": {
+      "overview": "Visão Geral",
+      "reports": "Tarefas",
+      "analytics": "Análises",
+      "settings": "Configurações"
+    },
+    "welcome": "Bem-vindo de volta, {name}!",
+    "overview": {
+      "title": "Visão Geral do Painel",
+      "pending": "Pendentes",
+      "weekCompleted": "Realizadas nessa Semana",
+      "completed": "Concluídas",
+      "total": "Total"
+    },
+    "tasks": {
+      "title": "Tarefas",
+      "addButton": "Adicionar Tarefa",
+      "noTasks": "Nenhuma tarefa pendente.",
+      "completeButton": "Concluir",
+      "editButton": "Editar",
+      "deleteButton": "Excluir",
+      "createdAt": "Criada em: {date}"
+    },
+    "analytics": {
+      "title": "Análises",
+      "weeklyProgress": "Progresso Semanal",
+      "monthlyProgress": "Progresso Mensal",
+      "tasksCompleted": "Tarefas Concluídas",
+      "noData": "Nenhuma tarefa concluída {period}.",
+      "week": "nesta semana",
+      "month": "neste mês"
+    },
+    "settings": {
+      "title": "Configurações",
+      "subtitle": "Aqui você pode ajustar suas preferências e configurações.",
+      "language": "Idioma",
+      "languageDesc": "Altere o idioma da interface",
+      "userPreferences": "Preferências do Usuário",
+      "userPreferencesDesc": "Configurações de exibição e personalização."
+    },
+    "header": {
+      "menu": "Menu",
+      "title": "Painel de Controle",
+      "darkMode": "Modo escuro",
+      "welcome": "Bem-vindo, {name}!",
+      "logout": "Sair"
+    }
+  },
+  "LanguageSwitcher": {
+    "changeLanguage": "Alterar idioma"
+  },
+  "Common": {
+    "loading": "Carregando...",
+    "error": "Ocorreu um erro",
+    "success": "Operação concluída com sucesso",
+    "requiredField": "Por favor, preencha este campo",
+    "databaseError": "Erro ao conectar ao banco de dados!",
+    "sessionError": "Sessão do usuário não carrega!",
+    "deleteError": "Erro ao excluir tarefa. Tente novamente.",
+    "editError": "Erro ao editar tarefa. Tente novamente.",
+    "completeError": "Erro ao completar tarefa. Tente novamente."
+  }
+}

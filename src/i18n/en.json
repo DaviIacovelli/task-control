@@ -1,0 +1,75 @@
+{
+  "HomePage": {
+    "title": "Turn data into decisions",
+    "subtitle": "Our dashboard offers powerful insights to boost your business",
+    "ctaButton": "Get started now"
+  },
+  "LoginPage": {
+    "title": "Login to your account",
+    "subtitle": "Connect using your Google account",
+    "googleButton": "Continue with Google"
+  },
+  "Dashboard": {
+    "menu": {
+      "overview": "Overview",
+      "reports": "Tasks",
+      "analytics": "Analytics",
+      "settings": "Settings"
+    },
+    "welcome": "Welcome back, {name}!",
+    "overview": {
+      "title": "Dashboard Overview",
+      "pending": "Pending",
+      "weekCompleted": "Completed this Week",
+      "completed": "Completed",
+      "total": "Total"
+    },
+    "tasks": {
+      "title": "Tasks",
+      "addButton": "Add Task",
+      "noTasks": "No pending tasks.",
+      "completeButton": "Complete",
+      "editButton": "Edit",
+      "deleteButton": "Delete",
+      "createdAt": "Created at: {date}"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "weeklyProgress": "Weekly Progress",
+      "monthlyProgress": "Monthly Progress",
+      "tasksCompleted": "Tasks Completed",
+      "noData": "No tasks completed {period}.",
+      "week": "this week",
+      "month": "this month"
+    },
+    "settings": {
+      "title": "Settings",
+      "subtitle": "Here you can adjust your preferences and settings.",
+      "language": "Language",
+      "languageDesc": "Change the interface language",
+      "userPreferences": "User Preferences",
+      "userPreferencesDesc": "Display and customization settings."
+    },
+    "header": {
+      "menu": "Menu",
+      "title": "Control Panel",
+      "darkMode": "Dark mode",
+      "welcome": "Welcome, {name} !",
+      "logout": "Sign Out"
+    }
+  },
+  "LanguageSwitcher": {
+    "changeLanguage": "Change language"
+  },
+  "Common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Operation completed successfully",
+    "requiredField": "Please fill in this field",
+    "databaseError": "Error connecting to database!",
+    "sessionError": "User session not loaded!",
+    "deleteError": "Error deleting task. Please try again.",
+    "editError": "Error editing task. Please try again.",
+    "completeError": "Error completing task. Please try again."
+  }
+}
