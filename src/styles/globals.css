@@ -11,6 +11,14 @@
   --toggle-bg: #e2e8f0;
   --toggle-knob: #ffffff;
 
+  /* Variáveis de cores (page.module) */
+  --color-primary: #4361ee;
+  --color-primary-light: #4895ef;
+  --color-secondary: #3f37c9;
+  --color-accent: #f72585;
+  --color-text-light: #ffffff;
+  --color-text-dark: #2b2d42;
+
   /* Sombras */
   --header-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   --button-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
